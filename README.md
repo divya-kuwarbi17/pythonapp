@@ -1,2 +1,2 @@
 # pythonapp
-trying t create first python web app on azure
+trying to create first python web app on azure
